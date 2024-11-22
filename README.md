@@ -1,5 +1,5 @@
 # <h1 align="center"> Projeto Task Master </h1>
-<h1 align="center">Hi 👋, I'm Diego Gomes</h1>
+<h2 align="center">Hi 👋, I'm Diego Gomes</h2>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Task Master](https://github.com/DiegoGomes-1/DiegoGomes-1-/tree/main)
